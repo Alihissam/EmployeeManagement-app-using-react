@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EmployeeManagement-app-using-react/static/css/main.0ff09731.css",
+    "main.js": "/EmployeeManagement-app-using-react/static/js/main.44d79156.js",
+    "index.html": "/EmployeeManagement-app-using-react/index.html",
+    "main.0ff09731.css.map": "/EmployeeManagement-app-using-react/static/css/main.0ff09731.css.map",
+    "main.44d79156.js.map": "/EmployeeManagement-app-using-react/static/js/main.44d79156.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ff09731.css",
+    "static/js/main.44d79156.js"
+  ]
+}
